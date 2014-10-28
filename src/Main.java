@@ -11,7 +11,7 @@ import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
 
 public class Main {
-	
+	// 2014-10-28 12:13添加
 	public static void main(String[] args) {
 		File dir = new File("D:\\demo_renren");
 		File results = new File("D:\\xiaojiezai");
