@@ -1,7 +1,6 @@
 import java.io.File;
 import java.io.FileFilter;
 
-
 public class DemoDzFileFilter implements FileFilter {
 	@Override
 	public boolean accept(File file) {
